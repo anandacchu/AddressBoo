@@ -62,7 +62,7 @@ Select * from AddressBook;
 ----Insert into AddressBook(FirstName,LastName ,Address,City,State,Zip,PhoneNumber,Email) Values('Gaurav','gahukar','12th main','Bengaluru','Karnataka',456765,9876545678,'stu@gmail.com');
 
 UPDATE AddressBook set contactType='Friends' where FirstName='Gurpreet';
-UPDATE AddressBook set contactType='Proffession' where FirstName='Shivraj';
+UPDATE AddressBook set contactType='Proffession' where FirstName='Vishnu';
 UPDATE AddressBook set contactType='Friends' where FirstName='Vishwas';
 UPDATE AddressBook set contactType='Profession' where FirstName='Abhishek';
 UPDATE AddressBook set contactType='Family' where FirstName='Gaurav';
